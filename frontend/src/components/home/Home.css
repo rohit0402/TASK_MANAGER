@@ -1,0 +1,22 @@
+.home {
+  height: 100vh;
+  width: 100%;
+}
+.home h1 {
+  font-size: 60px;
+  color: black;
+}
+.home-btn:hover {
+  margin-top: 4px;
+  height: 40px;
+  color: black;
+  font-weight: bold !important;
+}
+.home-btn {
+  color: black;
+  border-radius: 10px;
+  transition: background-color 0s ease, border-radius 0s;
+}
+.linkedin,.git{
+  color: black;
+}
